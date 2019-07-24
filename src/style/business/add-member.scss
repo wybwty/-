@@ -1,0 +1,51 @@
+.el-dialog__body {
+  width: 275px;
+  margin: auto;
+}
+.main .el-form-item__label {
+  text-align: left;
+}
+.main .el-input__inner {
+  height: 26px;
+  width: 225px;
+}
+.main .el-form-item {
+  margin: 0;
+}
+.el-date-editor .el-range__icon {
+  line-height: 0px!important;
+}
+.el-date-editor .el-range-separator {
+  line-height: 20px!important;
+  color: #c0c4cc;
+}
+.Dialog .el-dialog__footer {
+  text-align: center;
+}
+.main .el-form-item__content {
+  margin-left: 0px !important;
+  width: 100px!important;
+}
+.main .el-form-item {
+  display: flex;
+  align-items: center;
+}
+.main .el-form-item {
+  line-height: 0px;
+}
+.main .el-form-item__label {
+  padding: 0;
+  line-height: 22px;
+}
+.main .el-date-editor .el-range__close-icon {
+  line-height: 20px!important;
+}
+.main .el-form-item__error {
+  top: 73%;
+}
+.el-range-editor.el-input__inner{
+  width: 225px!important;
+}
+.add-footer{
+  padding: 30px 0 0 80px;
+}

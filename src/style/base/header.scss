@@ -1,0 +1,85 @@
+.header {
+  background-color: white;
+}
+.el-header {
+  padding: 0;
+  height: 55px !important;
+  display: flex;
+  margin: auto;
+}
+.header-main {
+  display: flex;
+  justify-content: space-between;
+  width: 1840px;
+  height: 100%;
+}
+.header-main-left {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.header-main-left img {
+  display: block;
+  width: 25px;
+  height: 25px;
+}
+.header-main-right {
+  width: 240px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.header-main-right img {
+  display: block;
+  width: 22px;
+  height: 23px;
+}
+.messageLogo {
+  position: relative;
+  margin-right: 25px;
+}
+.message-number {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  top: -6px;
+  font-size: 5px;
+  right: -14px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+.documentLogo {
+  position: relative;
+  margin-right: 25px;
+}
+.document-number {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  top: -6px;
+  font-size: 5px;
+  right: -14px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 10px;
+}
+.line {
+  width: 18px;
+  height: 2px;
+  background-color: darkgray;
+  margin-left: 58px;
+}
+.clone {
+  display: flex;
+  align-items: center;
+}
+.clone img {
+  display: block;
+  width: 15px;
+  height: 15px;
+}
